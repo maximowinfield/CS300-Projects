@@ -1,0 +1,30 @@
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\AdvisingAssistanceProgram\x64\Debug\C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\AdvisingAssistanceProgram\x64\Debug
+Failed to open file at: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\AdvisingAssistanceProgram\x64\Debug\C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\AdvisingAssistanceProgram\x64\Debug
+Manual path attempt: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\AdvisingAssistanceProgram\x64\Debug\CS 300 ABCU_Advising_Program_Input.csv [SUCCESS]
+File loaded successfully.
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\9
+Failed to open file at: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\9
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\courses.csv
+Failed to open file at: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\courses.csv
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\courses.csv
+Failed to open file at: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\courses.csv
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\4924883e-6de3-4570-987f-66398ac3aa7a.csv
+Failed to open file at: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\4924883e-6de3-4570-987f-66398ac3aa7a.csv
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\CS 300 ABCU_Advising_Program_Input.csv
+File loaded successfully.
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\CS 300 ABCU_Advising_Program_Input.csv
+File loaded successfully.
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\CS 300 ABCU_Advising_Program_Input.csv
+File loaded successfully.
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\CS 300 ABCU_Advising_Program_Input.csv
+File loaded successfully.
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\2
+Failed to open file at: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\2
+Manual path attempt:  [FAILED]
+Final status: Failed to load any file.
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\CS 300 ABCU_Advising_Program_Input.csv
+File loaded successfully.
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\CS 300 ABCU_Advising_Program_Input.csv
+File loaded successfully.
+Attempting to open: C:\Users\Maximo\Documents\CS300\AdvisingAssistanceProgram\x64\Debug\CS 300 ABCU_Advising_Program_Input.csv
+File loaded successfully.
