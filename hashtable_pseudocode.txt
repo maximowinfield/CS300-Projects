@@ -1,0 +1,43 @@
+// Hash Table-Based Course Planner
+
+// Open and read course file
+Open file "courses.txt"
+WHILE not end of file
+    Read line
+    IF line is improperly formatted
+        Report error
+        CONTINUE
+    END IF
+    Parse course ID, title, and prerequisites
+    Create course object with parsed data
+    Insert course into hash table using course ID as the key
+END WHILE
+
+// Menu Options
+WHILE user does not choose Exit
+    Display menu:
+        1. Load Data
+        2. Print Course List
+        3. Print Course Info
+        9. Exit
+    Read user choice
+
+    IF choice == 1
+        Load course data into hash table
+    ELSE IF choice == 2
+        Retrieve all keys from hash table
+        Sort keys alphanumerically
+        FOR each key
+            Get corresponding course
+            Print course ID and title
+    ELSE IF choice == 3
+        Prompt user for course ID
+        Search hash table for course ID
+        IF found
+            Print course title and prerequisites
+        ELSE
+            Print "Course not found"
+    ELSE IF choice == 9
+        Exit program
+    END IF
+END WHILE
